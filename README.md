@@ -1,4 +1,4 @@
-MaterialTabs
+MaterialTabs(使用TopBar,Your activity must <code>extends ActionBarActivity implements MaterialTabListener</code>!!!)
 ============
 
 Custom Tabs with Material Design animations for pre-Lollipop devices<br>
